@@ -1,0 +1,17 @@
+Creating configuration file... config.mak
+OSX_VERSION not specified, assuming 10.7
+SDKROOT not specified, assuming /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+Bootstrap completed.
+
+Run "make" to start compilation.
+
+Other targets:
+ * make install      same as "make"
+ * make prebuilt     fetch and install prebuilt binaries
+ * make list         list packages
+ * make fetch        fetch required source tarballs
+ * make fetch-all    fetch all source tarballs
+ * make distclean    clean everything and undo bootstrap
+ * make mostlyclean  clean everything except source tarballs
+ * make clean        clean everything
+ * make package      prepare prebuilt packages

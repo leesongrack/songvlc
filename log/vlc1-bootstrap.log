@@ -1,0 +1,8 @@
+autoconf not found
+automake not found
+libtool not found
+pkg-config not found
+cmake not found
+yasm not found
+tar doesn't support xz (J option)
+ragel not found

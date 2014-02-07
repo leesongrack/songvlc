@@ -1,0 +1,7 @@
+curl -f -L -- "ftp://ftp.videolan.org/pub/videolan/contrib/x86_64-apple-darwin12/vlc-contrib-x86_64-apple-darwin12-latest.tar.bz2" > "vlc-contrib-x86_64-apple-darwin12-latest.tar.bz2"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+curl: (9) Server denied you to change to the given directory
+make: *** [vlc-contrib-x86_64-apple-darwin12-latest.tar.bz2] Error 9
+make: *** Deleting file `vlc-contrib-x86_64-apple-darwin12-latest.tar.bz2'
